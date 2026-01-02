@@ -75,12 +75,8 @@ Thumbs.db
 PRESENTATION_GUIDE.md
 SUBMISSION_CHECKLIST.md
 
-# Temporary images/screenshots in root (not organized)
-image.png
-image-*.png
-*.jpg
-*.jpeg
-!lib/**/*.png
-!lib/**/*.jpg
-!assets/**/*.png
-!assets/**/*.jpg
+# Temporary images in root folder only (not screenshots folder!)
+/image.png
+/image-*.png
+/*.jpg
+/*.jpeg
